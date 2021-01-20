@@ -1,0 +1,2 @@
+D:\visual studio 代码\飞机小游戏\飞机小游戏\Debug\飞机小游戏.exe
+D:\visual studio 代码\飞机小游戏\飞机小游戏\Debug\飞机小游戏.pdb

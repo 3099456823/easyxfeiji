@@ -1,0 +1,24 @@
+﻿  main函数.cpp
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(124,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(124,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(125,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(125,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(134,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(134,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(135,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(135,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(140,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(140,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(141,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(141,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(148,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(148,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(149,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(149,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(281,54): warning C4804: “%”: 在操作中使用类型“bool”不安全
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(308,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(308,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(309,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(309,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio 代码\飞机小游戏\飞机小游戏\main函数.cpp(327,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  飞机小游戏.vcxproj -> D:\visual studio 代码\飞机小游戏\飞机小游戏\Debug\飞机小游戏.exe
